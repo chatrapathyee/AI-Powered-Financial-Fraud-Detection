@@ -1,0 +1,15 @@
+langchain
+faiss-cpu
+python-dotenv
+sentence-transformers
+langchain-community
+langchain-core
+transformers
+chromadb
+pandas
+nltk
+streamlit
+ctransformers
+torch
+accelerate
+bitsandbytes
